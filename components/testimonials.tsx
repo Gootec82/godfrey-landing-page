@@ -32,7 +32,7 @@ const testimonials = [
       "As a content creator, I was always on the lookout for a tool that could help me keep up with the demand. The AI-driven content tool has been a game-changer. It generates high-quality content in a fraction of the time it used to take me.",
     categories: [1, 3, 5],
   },
-  {
+  /*{
     img: TestimonialImg02,
     clientImg: ClientImg02,
     name: "Andrew K.",
@@ -103,7 +103,7 @@ const testimonials = [
     content:
       "I've never been one for coding, so finding an AI tool that doesn't require any technical skills was a dream come true. This tool exceeded my expectations, and I'm proud to show off my new stuff to friends.",
     categories: [1, 2],
-  },
+  },*/
 ];
 
 export default function Testimonials() {

@@ -1,3 +1,4 @@
+@import "remixicon/fonts/remixicon.css";
 @import 'tailwindcss';
 
 /* Additional styles */
@@ -90,4 +91,15 @@
   ::file-selector-button {
     border-color: var(--color-gray-200, currentColor);
   }
+}
+
+/* === Fix unwanted horizontal scrolling === */
+html,
+body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+* {
+  box-sizing: border-box;
 }
