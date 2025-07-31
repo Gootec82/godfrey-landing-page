@@ -82,11 +82,11 @@ export default function Footer() {
                 <Link href="/terms" className="hover:text-indigo-500">Terms</Link>
               </p>
               <ul className="inline-flex gap-2">
-                <li><a href="https://x.com" aria-label="X" target="_blank" rel="noopener noreferrer" className="transition hover:text-indigo-400"><i className="fab fa-x-twitter text-xl"></i></a></li>
+                <li><a href="https://x.com/flowbitweb" aria-label="X" target="_blank" rel="noopener noreferrer" className="transition hover:text-indigo-400"><i className="fab fa-x-twitter text-xl"></i></a></li>
                 <li><a href="https://facebook.com" aria-label="Facebook" target="_blank" rel="noopener noreferrer" className="transition hover:text-indigo-400"><i className="fab fa-facebook text-xl"></i></a></li>
-                <li><a href="https://instagram.com" aria-label="Instagram" target="_blank" rel="noopener noreferrer" className="transition hover:text-indigo-400"><i className="fab fa-instagram text-xl"></i></a></li>
+                <li><a href="https://instagram.com/flowbit.co" aria-label="Instagram" target="_blank" rel="noopener noreferrer" className="transition hover:text-indigo-400"><i className="fab fa-instagram text-xl"></i></a></li>
                 <li><a href="https://linkedin.com" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer" className="transition hover:text-indigo-400"><i className="fab fa-linkedin text-xl"></i></a></li>
-                <li><a href="https://github.com" aria-label="GitHub" target="_blank" rel="noopener noreferrer" className="transition hover:text-indigo-400"><i className="fab fa-github text-xl"></i></a></li>
+                <li><a href="https://github.com/gootec82" aria-label="GitHub" target="_blank" rel="noopener noreferrer" className="transition hover:text-indigo-400"><i className="fab fa-github text-xl"></i></a></li>
               </ul>
             </div>
           </div>
